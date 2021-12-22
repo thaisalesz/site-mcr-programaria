@@ -1,0 +1,66 @@
+body{
+  background-color: black;
+  color: brown;
+  text-align: justify;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0px 0px 30px 0px;
+}
+header{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  font-size: 200%;
+  background-color: rgb(0, 0, 0);
+
+}
+section{
+  margin: 0 auto;
+  width: 60%;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  border: transparent;
+}
+
+img{
+  width: 100%;
+}
+.albuns ul li a{
+  color: black;
+  text-decoration: underline;
+  font-weight: normal; 
+  text-align: justify;  
+}
+.albuns{
+  background-color: white;
+  max-width: 60%;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+.albuns ul li{
+  display: inline-block;
+  line-height: 2.5;
+  margin: 0 40px;
+}
+#botaoEnviar{
+  background-color: rgb(177, 142, 135);
+  border: 1px;
+  border-radius: 3px;
+  border-color: transparent;
+  padding: 2px 20px;
+}
+h2{
+  text-align: center;
+  font-size: 200%;
+  text-transform:uppercase;
+}
+h4{
+  text-align: center;
+  margin-top: 50px;
+  color:black;
+}
+.centro{
+  text-align: center;
+}
+form{
+  padding-top: 2%;
+}
